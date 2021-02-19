@@ -1,8 +1,7 @@
+import 'package:firebase_authentication_with_flutter/src/providers/provider.dart';
+import 'package:firebase_authentication_with_flutter/src/validators/validators.dart';
 import 'package:flutter/material.dart';
-
-import 'package:firebase_authentication_with_flutter/provider.dart';
 import 'package:firebase_authentication_with_flutter/auth.dart';
-import 'package:firebase_authentication_with_flutter/validators.dart';
 
 void main() => runApp(MyApp());
 
